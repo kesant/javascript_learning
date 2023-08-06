@@ -1,1 +1,3 @@
-console.log()
+let agua=true
+
+console.log("hola mundo")
